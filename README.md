@@ -1,2 +1,2 @@
 # ppatcher
-A tool to patch binary files via pattern search
+A command line tool to search/replace binary data via patterns
